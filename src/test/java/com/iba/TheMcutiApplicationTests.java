@@ -1,4 +1,4 @@
-package com.iba.TheMCUTI;
+package com.iba;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
